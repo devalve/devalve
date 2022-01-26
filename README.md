@@ -8,5 +8,3 @@
  
 
 Telegram: [property of undefined](https://t.me/supbread) 
-
-VK: [devalve](https://vk.com/devalve)
