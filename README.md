@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=devalve&count_private=true&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalve)](https://github.com/devalve) 
- 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devalve&theme=radical&hide_border=true&show_icons=true&layout=compact)
 
 ## Contact me 
  
